@@ -1,0 +1,1 @@
+# pattern-printing-C-single-forloop
