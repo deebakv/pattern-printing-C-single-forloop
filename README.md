@@ -1,4 +1,4 @@
-# pattern-printing-C-single-forloop
+<!-- # pattern-printing-C-single-forloop
 // Question :: Accept a number N as the input. The program must print the X pattern as shown in the example Input.Output Section as the output.(Note Space should be replace with asterisk)
 
 // Boundary Conditon(s):
@@ -48,7 +48,7 @@
 
 
 
-// Program:
+// Program: -->
 
 
 
